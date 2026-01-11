@@ -1,36 +1,33 @@
-# Landing-Page
-🚀 Orbit | Project Management Redefined
-Orbit is a high-performance, minimalist project management workspace built for teams and students who want to ship projects 10x faster. It eliminates the "management chaos" by providing a unified home for notes, tasks, and files.
+# 🛰️ Orbit | Finish Projects 10x Faster
 
-✨ Key Features
-⚡ Lightning Fast UI: Optimized for zero-lag interactions and instant real-time syncing.
+## 📌 Description
+Orbit is a high-performance, modern landing page for a project management workspace. It is designed with a "speed-first" philosophy, featuring a sleek UI, responsive layouts, and interactive elements to convert visitors into users.
 
-🤖 Orbit AI: Built-in intelligence to summarize long threads and automatically generate task lists from meeting notes.
+## ✨ Key Features
+### 💎 Modern UI/UX
+ - **Glass-morphism Design:** A trendy, translucent hero section with a fixed background image for depth.
+ - **Gradient Typography:** High-impact headings using CSS text-clipping.
+ - **Fully Responsive:** Custom `@media` queries ensure the "Orbit" experience is just as powerful on a smartphone as it is on a 5K monitor.
+### 🛠️ Interactive Elements
+ - **Testimonial Slider:** A custom-built, touch-friendly horizontal scroll container with dot navigation and drag-to-scroll functionality.
+ - **Mobile Navigation:** A smooth, animated hamburger menu with "click-outside" detection.
+ - **Animated Transitions:** Subtle `fadeInUp` animations on page load for a premium feel.
+### 📊 Business Ready
+ - **Tiered Pricing Table:** Clear, high-conversion pricing cards featuring a "Most Popular" highlight.
+ - **SEO Optimized:** Semantic HTML5 structure and optimized font loading via Google Fonts.
+ - **FAQ Section:** Interactive accordion-style FAQ using the `<details>` and `<summary>` elements.
 
-🛡️ Bank-Grade Security: AES-256 encryption at rest and TLS in transit to keep professional data safe.
+## 🏗️ Tech Stack
+ - **Frontend:** Tailwind CSS 
+ - **Icons:** Lucide Icons
+ - **Typography:** Inter via Google Fonts
+ - **Logic:** Vanilla JavaScript (ES6+)
 
-📱 Fully Responsive: A seamless experience across mobile, tablet, and desktop devices.
+## 🚀 Live Demo
+https://aaiswaryapm.github.io/Landing-Page/
 
-🌓 Modern Aesthetics: Clean typography and a sleek "Glassmorphism" UI built with Tailwind CSS.
-
-🔄 1-Click Importer: Smooth migration from Notion, Trello, or Slack.
-
-🛠️ Tech Stack
-HTML5 - Semantic structure for accessibility.
-
-Tailwind CSS - Utility-first styling for rapid, responsive design.
-
-JavaScript (ES6+) - Dynamic interactions and scroll logic.
-
-Lucide Icons - Consistent and lightweight vector iconography.
-
-Google Fonts - Using the 'Inter' typeface for maximum readability.
-
-🎨 UI/UX Highlights
-Dynamic Hero Section: Features a background-fixed image with a custom Indigo-Cyan gradient.
-
-Interactive Testimonials: A custom-built, drag-to-scroll slider with active state indicators (dots).
-
-Smart FAQ: Accessible accordion-style FAQ using the <details> and <summary> elements.
-
-Mobile-First Menu: An animated hamburger menu designed for high conversion on smaller screens.
+## 📂 File Structure
+```
+├── index.html   
+├── style.css    
+└── script.js
