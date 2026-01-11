@@ -28,6 +28,8 @@ https://aaiswaryapm.github.io/Landing-Page/
 
 ## 📂 File Structure
 ```
-├── index.html   
-├── style.css    
-└── script.js
+Landing-Page/
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  └── README.md
