@@ -1,4 +1,4 @@
-# 🛰️ Orbit | Finish Projects 10x Faster
+# Orbit | Finish Projects 10x Faster
 
 ## 📌 Description
 Orbit is a high-performance, modern landing page for a project management workspace. It is designed with a "speed-first" philosophy, featuring a sleek UI, responsive layouts, and interactive elements to convert visitors into users.
